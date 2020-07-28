@@ -7,12 +7,5 @@
 🌱 Daily working as a QA Team Leader and Test Automation Engineer.
 
 🔭 Technologies I work with: 
-- JavaScript (ES6+),
-- TypeScript,
-- VueJS,
-- Jest,
-- Puppeteer,
-- Cucumber,
-- HTML5, 
-- CSS3 (Sass), 
-- Git.
+
+JavaScript (ES6+), TypeScript, VueJS, Jest, Puppeteer, Cucumber, HTML5, CSS3 (Sass), Git.
