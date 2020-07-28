@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Kodziak/kodziak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Software is my passion, in which I happily improving daily by building software, reading articles and learning new technologies. Also, I’m spending much time reading books about personal growth, productivity, finances, security, design and other similar things.
 
-Here are some ideas to get you started:
+📫 I’m an IT student based in Warsaw, Poland with over two years of industry experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Daily working as a QA Team Leader and Test Automation Engineer.
+
+🔭 Technologies I work with: 
+- JavaScript (ES6+),
+- TypeScript,
+- VueJS,
+- Jest,
+- Puppeteer,
+- Cucumber,
+- HTML5, 
+- CSS3 (Sass), 
+- Git.
