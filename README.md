@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Kodziak, but you can call me [Przemek](https://www.linkedin.com/in/ppaczoski/)!
 
-⚡ Software is my passion, in which I happily improving daily by building software, reading articles and learning new technologies. Also, I’m spending much time reading books about personal growth, productivity, finances, security, design and other similar things.
+#### I'm QA Team Leader and Test Automation Engineer at [Docplanner](https://docplanner.tech/). Also an IT student :D
+- 🔭 I'm running a podcast, [Docplanner Tech Talks](https://anchor.fm/docplanner-tech-talks),
+- ⚡ I'm a blogger, [floog.me](https://floog.me/),
+- 📫 I'm currently learning Golang,
+- 👯 I’m looking to collaborate with anyone on any project,
+- 💬 Ask me about anything.
 
-📫 I’m an IT student based in Warsaw, Poland with over two years of industry experience.
+#### Find me!
 
-🌱 Daily working as a QA Team Leader and Test Automation Engineer.
-
-🔭 Technologies I work with: JavaScript (ES6+), TypeScript, VueJS, Jest, Puppeteer, Cucumber, HTML5, CSS3 (Sass), Git.
+- [Portfolio](https://ppaczoski.pl)
+- [Mail](mailto:kodziak1416@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/ppaczoski/)
+- [Twitter](https://twitter.com/_kodziak)
