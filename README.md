@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Kodziak, but you can call me [Przemek](https://www.linkedin.com/in/ppaczoski/)!
+## 👋 Hi there, I'm Kodziak, but you can call me [Przemek](https://www.linkedin.com/in/ppaczoski/)!
 
 I'm a QA Team Leader and Test Automation Engineer who can undertake complex problems and produce final solutions. I'm fascinated about making better work processes using agile methodologies and iterate over written code solutions to gain better results.
 
@@ -6,7 +6,7 @@ More about me you can find visiting my [personal website](https://kodziak.com).
 
 ---
 
-## My digital spaces
+## 🌌 My digital spaces
 
 <table>
   <tr>
@@ -21,7 +21,7 @@ More about me you can find visiting my [personal website](https://kodziak.com).
 
  ---
 
-## Connect with me
+## 🔗 Connect with me
 
 - [Portfolio/blog](https://kodziak.com)
 - [Mail](mailto:paczoski.przemyslaw@gmail.com)
