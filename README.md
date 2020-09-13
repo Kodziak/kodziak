@@ -10,11 +10,11 @@ More about me you can find visiting my [personal website](https://kodziak.com).
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Kodziak/kodziak/master/img/kodziak-logo.jpg" width="150px" height="150px"></td>
+    <td width="180px"><img src="https://raw.githubusercontent.com/Kodziak/kodziak/master/img/kodziak-logo.jpg" width="150px" height="150px"></td>
     <td><h3>Kodziak.com</h3><p>I'm trying to write regular blog posts, almost all of them you can find on my personal website. I write about automation testing, finances and personal development, such as productivity etc.</p></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Kodziak/kodziak/master/img/tech-talks-logo.png" width="150px" height="150px"></td>
+    <td width="180px"><img src="https://raw.githubusercontent.com/Kodziak/kodziak/master/img/tech-talks-logo.png" width="150px" height="150px"></td>
     <td><h3>DocPlanner Tech Talks</h3><p>I'm running a podcast, where you can find interesting, mostly technical talks with our specialists.</p></td>
   </tr>
  </table>
