@@ -1,36 +1,22 @@
-## 👋 Hi there, I'm Kodziak, but you can call me [Przemek](https://www.linkedin.com/in/ppaczoski/)!
+## 👋 Hi there, I'm Kodziak, but you can call me [Przemek](https://www.linkedin.com/in/ppaczoski/)! 
 
-I'm a QA Team Leader and Test Automation Engineer who can undertake complex problems and produce final solutions. I'm fascinated about making better work processes using agile methodologies and iterate over written code solutions to gain better results.
+I'm a QA Team Leader and Test Automation Engineer who can undertake complex problems and produce final solutions. I'm fascinated about making better work processes using agile methodologies and iterate over written code solutions to gain better results. 
 
----
+--- 
 
-## 🌌 Get in touch
+## 🌌 Get in touch 
 
-- Web: [kodziak.com/about][1]
-- Blog: [kodziak.com][2]
-- Linkedin: [linkedin.com/in/ppaczoski/][3]
-- Twitter: [twitter.com/_kodziak][4]
-- I also publish articles here:
-  - [dev.to/kodziak][5]
-  - [medium.com/@ppaczoski][6]
+- Web: [kodziak.com/about](kodziak.com/about) 
+- Blog: [kodziak.com](kodziak.com) 
+- Linkedin: [linkedin.com/in/ppaczoski/](linkedin.com/in/ppaczoski/) 
+- Twitter: [twitter.com/_kodziak](twitter.com/_kodziak) 
+- I also publish articles here: 
+  - [dev.to/kodziak](dev.to/kodziak) 
+  - [medium.com/@ppaczoski](medium.com/@ppaczoski) 
+  
+--- 
 
+## 📕 Latest Blog Posts 
 
-<!-- <table>
-  <tr>
-    <td width="180px"><img src="https://raw.githubusercontent.com/Kodziak/kodziak/master/img/kodziak-logo.jpg" width="150px" height="150px"></td>
-    <td><h3>Kodziak.com</h3><p>It's my personal website, where you can also find a blog which I'm trying to write regularly. I write about automation testing, finances and personal development, such as productivity etc.</p><a href="https://kodziak.com/blog">Click to visit!</a></td>
-  </tr>
-  <tr>
-    <td width="180px"><img src="https://raw.githubusercontent.com/Kodziak/kodziak/master/img/tech-talks-logo.png" width="150px" height="150px"></td>
-    <td><h3>DocPlanner Tech Talks</h3><p>I'm running a podcast, where you can find interesting, mostly technical talks with our specialists.</p><a href="https://anchor.fm/docplanner-tech-talks">Click to visit!</a></td>
-  </tr>
- </table> -->
-
- ---
-
-## 🔗 Connect with me
-
-- [Portfolio/blog](https://kodziak.com)
-- [Mail](mailto:paczoski.przemyslaw@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/ppaczoski/)
-- [Twitter](https://twitter.com/_kodziak)
+<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:END -->
