@@ -1,10 +1,9 @@
-name: Blog posts fetch
+name: Blog Posts
 
 on:
-  # Run workflow automatically
   schedule:
-    # Runs every hour, on the hour
-    - cron: '0/1 * * * *'
+    # Runs every hour
+    - cron: '0 * * * *'
 
 jobs:
   update-readme-with-blog:
@@ -12,7 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@94531d3fc177a2753683dc4342c10aa4420fc4f1
         with:
-          # comma-separated list of RSS feed urls
           feed_list: "https://kodziak.com/feed.xml"
