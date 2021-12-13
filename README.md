@@ -19,9 +19,9 @@ I'm a Head of QA who can undertake complex problems and produce final solutions.
 ## 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Separate or project repository to store tests? Which, why, and when?](https://kodziak.com/blog/separate-or-project-repository-to-store-tests-which-why-and-when)
 - [Six things you should consider while designing a test architecture](https://kodziak.com/blog/six-things-you-should-consider-while-designing-a-test-architecture)
 - [Importance of CI/CD and parallelisation in test automation](https://kodziak.com/blog/importance-of-ci-cd-and-parallelisation-in-test-automation)
 - [Who is a Quality Assurance Engineer and what should he know?](https://kodziak.com/blog/who-is-a-qa-engineer-and-what-should-he-know)
 - [What is screenshot, UI, API, and performance testing?](https://kodziak.com/blog/what-is-screenshot-ui-api-performance-testing)
-- [How to make your UI automation tests resilient to changes?](https://kodziak.com/blog/how-to-make-your-ui-automation-tests-resilient-to-changes)
 <!-- BLOG-POST-LIST:END -->
