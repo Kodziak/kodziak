@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Kodziak, but you can call me [Przemek](https://www.linkedin.com/in/ppaczoski/)! 
 
-I'm a Head of QA who can undertake complex problems and produce final solutions. I'm fascinated about making better work processes using agile methodologies and iterate over written code solutions to gain better results. 
+I'm a QA guy who can undertake complex problems and produce final solutions. I'm fascinated about making better work processes using agile methodologies and iterate over written solutions to gain better results. 
 
 --- 
 
