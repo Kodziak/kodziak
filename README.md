@@ -6,13 +6,13 @@ I'm a QA guy who can undertake complex problems and produce final solutions. I'm
 
 ## 🌌 Get in touch 
 
-- Web: [kodziak.com/about](kodziak.com/about) 
-- Blog: [kodziak.com](kodziak.com) 
-- Linkedin: [linkedin.com/in/ppaczoski/](linkedin.com/in/ppaczoski/) 
-- Twitter: [twitter.com/_kodziak](twitter.com/_kodziak) 
+- Web: [kodziak.com/about](https://kodziak.com/about) 
+- Blog: [kodziak.com](https://kodziak.com) 
+- Linkedin: [linkedin.com/in/ppaczoski/](https://linkedin.com/in/ppaczoski/) 
+- Twitter: [twitter.com/_kodziak](https://twitter.com/_kodziak) 
 - I also publish articles here: 
-  - [dev.to/kodziak](dev.to/kodziak) 
-  - [medium.com/@ppaczoski](medium.com/@ppaczoski) 
+  - [dev.to/kodziak](https://dev.to/kodziak) 
+  - [medium.com/@ppaczoski](https://medium.com/@ppaczoski) 
   
 --- 
 
