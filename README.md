@@ -1,6 +1,10 @@
-## 👋 Hi there, I'm Kodziak, but you can call me [Przemek](https://www.linkedin.com/in/ppaczoski/)! 
+## 👋 Hi there, I'm Kodziak, but you can call me [Przemek](https://kodziak.com/about)! 
 
-I'm a QA guy who can undertake complex problems and produce final solutions. I'm fascinated about making better work processes using agile methodologies and iterate over written solutions to gain better results. 
+I'm a BUIDLer who loves solving tough problems and finishing projects. I enjoy making things, improving how easy they are to use, and sharing them with more people.
+
+If you have an idea you want to create, let's chat!
+
+I'm a founder and CEO of [Syncra](https://syncra.xyz/).
 
 --- 
 
@@ -8,11 +12,7 @@ I'm a QA guy who can undertake complex problems and produce final solutions. I'm
 
 - Web: [kodziak.com/about](https://kodziak.com/about) 
 - Blog: [kodziak.com](https://kodziak.com) 
-- Linkedin: [linkedin.com/in/ppaczoski/](https://linkedin.com/in/ppaczoski/) 
 - Twitter: [twitter.com/_kodziak](https://twitter.com/_kodziak) 
-- I also publish articles here: 
-  - [dev.to/kodziak](https://dev.to/kodziak) 
-  - [medium.com/@ppaczoski](https://medium.com/@ppaczoski) 
   
 --- 
 
