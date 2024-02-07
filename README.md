@@ -10,6 +10,8 @@ I'm a founder and CEO of [Syncra](https://syncra.xyz/).
 
 ## 🌌 Get in touch 
 
+- Syncra: [syncra.xyz](https://syncra.xyz)
+- Syncra Testnet App: [testnet.syncra.xyz](https://testnet.syncra.xyz)
 - Web: [kodziak.com/about](https://kodziak.com/about) 
 - Blog: [kodziak.com](https://kodziak.com) 
 - Twitter: [twitter.com/_kodziak](https://twitter.com/_kodziak) 
