@@ -4,17 +4,18 @@ I'm a BUIDLer who loves solving tough problems and finishing projects. I enjoy m
 
 If you have an idea you want to create, let's chat!
 
-I'm a founder and CEO of [Syncra](https://syncra.xyz/).
+I'm a founder and CEO of [Syncra](https://syncra.xyz/) and [23studio](https://23stud.io).
 
 --- 
 
 ## 🌌 Get in touch 
 
 - Syncra: [syncra.xyz](https://syncra.xyz)
-- Syncra Testnet App: [testnet.syncra.xyz](https://testnet.syncra.xyz)
-- Web: [kodziak.com/about](https://kodziak.com/about) 
+- Syncra App: [testnet.syncra.xyz](https://ąpp.syncra.xyz)
+- 23studio: [23stud.io](https://23stud.io)
+- Web: [kodziak.com/about](https://kodziak.com/about)
 - Blog: [kodziak.com](https://kodziak.com) 
-- Twitter: [twitter.com/_kodziak](https://twitter.com/_kodziak) 
+- X: [x.com/_kodziak](https://x.com/_kodziak) 
   
 --- 
 
