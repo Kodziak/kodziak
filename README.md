@@ -11,7 +11,7 @@ I'm a founder and CEO of [Syncra](https://syncra.xyz/) and [23studio](https://23
 ## 🌌 Get in touch 
 
 - Syncra: [syncra.xyz](https://syncra.xyz)
-- Syncra App: [testnet.syncra.xyz](https://ąpp.syncra.xyz)
+- Syncra App: [app.syncra.xyz](https://ąpp.syncra.xyz)
 - 23studio: [23stud.io](https://23stud.io)
 - Web: [kodziak.com/about](https://kodziak.com/about)
 - Blog: [kodziak.com](https://kodziak.com) 
